@@ -1,0 +1,2 @@
+C:/Users/frame/Downloads/subway/android/app/.cxx/Debug/2y555n2y/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/frame/Downloads/subway/android/app/.cxx/Debug/2y555n2y/armeabi-v7a/CMakeFiles/rebuild_cache.dir
